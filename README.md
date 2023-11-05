@@ -19,6 +19,7 @@ Finally, for sparse interpolation the target gradients are those of luminance of
 Original             |  Processed
 :-------------------------:|:-------------------------:
 ![](images/tree_original.png) | ![](images/tree_npr.png)
+![](images/rock_original.png) | ![](images/rock_npr.png)
 ![](images/pitt3_original.png) | ![](images/pitt3_npr.png)
 ![](images/pitt1_original.png) | ![](images/pitt1_npr.png)
 ![](images/dog1_original.png) | ![](images/dog1_interp.png)
